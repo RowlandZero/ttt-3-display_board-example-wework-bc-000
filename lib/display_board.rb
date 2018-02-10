@@ -6,5 +6,10 @@ def display_board
   row_4 = "-----------"
   row_5 = "   |   |   "
   puts row_1
+  puts row_2
+  puts row_3
+  puts row_4
+  puts row_5
 end
 
+display_board
