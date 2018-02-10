@@ -5,6 +5,6 @@ def display_board
   row_3 = "   |   |   "
   row_4 = "-----------"
   row_5 = "   |   |   "
+  puts row_1
 end
 
-puts(display_board)
