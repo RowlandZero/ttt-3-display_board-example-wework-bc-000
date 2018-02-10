@@ -5,3 +5,6 @@ def display_board
   row_3 = "   |   |   "
   row_4 = "-----------"
   row_5 = "   |   |   "
+end
+
+display_board
